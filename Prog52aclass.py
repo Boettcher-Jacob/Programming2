@@ -19,4 +19,17 @@ class Shape:
 
   def getPerimeter(self):
     return self.perim
-    
+
+
+
+
+def main():
+  len = int(input("enter length: "))
+  wid = int(input("enter width: "))
+  shape= Shape(len,wid)
+  shape.calculate()
+  print("Area:", shape.getArea())
+  print("Perimeter:", shape.getPerimeter())
+
+if __name__ == "__main__":
+  main()
