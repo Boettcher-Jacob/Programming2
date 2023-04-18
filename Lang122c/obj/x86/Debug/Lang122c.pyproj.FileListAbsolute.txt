@@ -1,0 +1,14 @@
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\Lang122c.exe.config
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\Lang122c.exe
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\Lang122c.dll
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\obj\x86\Debug\Lang122c.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\obj\x86\Debug\Lang122c.MainForm.resources
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\obj\x86\Debug\Lang122c.pyproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming1\Lang122c\obj\x86\Debug\Lang122c.exe

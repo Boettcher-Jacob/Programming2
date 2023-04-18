@@ -1,0 +1,9 @@
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\bin\Debug\Lang54a.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\bin\Debug\Lang54a.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\bin\Debug\Lang54a.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\obj\Debug\Lang54a.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\obj\Debug\Lang54a.Form1.resources
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\obj\Debug\Lang54a.Properties.Resources.resources
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\obj\Debug\Lang54a.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\obj\Debug\Lang54a.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang54a\obj\Debug\Lang54a.pdb

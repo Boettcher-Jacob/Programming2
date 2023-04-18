@@ -1,0 +1,6 @@
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\LP4_5\bin\Debug\LP4_5.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\LP4_5\obj\Debug\LP4_5.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\LP4_5\bin\Debug\LP4_5.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\LP4_5\bin\Debug\LP4_5.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\LP4_5\obj\Debug\LP4_5.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\LP4_5\obj\Debug\LP4_5.pdb

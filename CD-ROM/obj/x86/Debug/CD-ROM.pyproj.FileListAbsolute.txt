@@ -1,0 +1,14 @@
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\CD-ROM.exe.config
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\CD-ROM.exe
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\CD-ROM.dll
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\obj\x86\Debug\CD-ROM.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\obj\x86\Debug\CD_ROM.MainForm.resources
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\obj\x86\Debug\CD-ROM.pyproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming1\CD-ROM\obj\x86\Debug\CD-ROM.exe

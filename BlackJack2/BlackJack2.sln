@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "BlackJack2", "BlackJack2.pyproj", "{48740516-9066-4ABB-B3D9-252D94DDB05D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48740516-9066-4ABB-B3D9-252D94DDB05D}.Debug|x86.Build.0 = Debug|x86
+		{48740516-9066-4ABB-B3D9-252D94DDB05D}.Debug|x86.ActiveCfg = Debug|x86
+		{48740516-9066-4ABB-B3D9-252D94DDB05D}.Release|x86.Build.0 = Release|x86
+		{48740516-9066-4ABB-B3D9-252D94DDB05D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

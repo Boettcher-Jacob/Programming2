@@ -1,0 +1,12 @@
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\Flags.exe.config
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\Flags.exe
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\Flags.dll
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming1\Flags\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming1\Flags\obj\x86\Debug\Flags.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming1\Flags\obj\x86\Debug\Flags.exe

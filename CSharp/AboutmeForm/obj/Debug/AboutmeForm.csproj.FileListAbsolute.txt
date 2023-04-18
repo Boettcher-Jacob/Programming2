@@ -1,0 +1,9 @@
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\bin\Debug\AboutmeForm.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\bin\Debug\AboutmeForm.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\bin\Debug\AboutmeForm.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.Form1.resources
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.Properties.Resources.resources
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.csprojResolveAssemblyReference.cache

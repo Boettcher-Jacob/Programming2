@@ -1,0 +1,5 @@
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\YourName\bin\Debug\YourName.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\YourName\bin\Debug\YourName.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\YourName\bin\Debug\YourName.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\YourName\obj\Debug\YourName.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\YourName\obj\Debug\YourName.pdb

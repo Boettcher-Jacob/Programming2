@@ -1,0 +1,6 @@
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\FavoriteClub\bin\Debug\FavoriteClub.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\FavoriteClub\bin\Debug\FavoriteClub.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\FavoriteClub\bin\Debug\FavoriteClub.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\FavoriteClub\obj\Debug\FavoriteClub.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\FavoriteClub\obj\Debug\FavoriteClub.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\FavoriteClub\obj\Debug\FavoriteClub.pdb

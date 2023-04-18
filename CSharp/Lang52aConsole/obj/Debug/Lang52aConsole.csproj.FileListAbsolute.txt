@@ -1,0 +1,9 @@
+C:\Users\boettche.j\Desktop\Programming2-2\Lang52aConsole\bin\Debug\Lang52aConsole.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\Lang52aConsole\obj\Debug\Lang52aConsole.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming2-2\Lang52aConsole\bin\Debug\Lang52aConsole.exe
+C:\Users\boettche.j\Desktop\Programming2-2\Lang52aConsole\bin\Debug\Lang52aConsole.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\Lang52aConsole\obj\Debug\Lang52aConsole.exe
+C:\Users\boettche.j\Desktop\Programming2-2\Lang52aConsole\obj\Debug\Lang52aConsole.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang52aConsole\bin\Debug\Lang52aConsole.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang52aConsole\obj\Debug\Lang52aConsole.exe
+C:\Users\boettche.j\Desktop\Programming2-2\CSharp\Lang52aConsole\obj\Debug\Lang52aConsole.pdb

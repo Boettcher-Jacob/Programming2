@@ -1,0 +1,14 @@
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.MainForm.resources
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.pyproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\Pg198ScoreAvg.exe.config
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\Pg198ScoreAvg.exe
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\Pg198ScoreAvg.dll
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming1\Pg198ScoreAvg\obj\x86\Debug\Pg198ScoreAvg.exe

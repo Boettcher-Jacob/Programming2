@@ -1,0 +1,14 @@
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\BossBattle.exe.config
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\BossBattle.exe
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\BossBattle.dll
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\obj\x86\Debug\BossBattle.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\obj\x86\Debug\BossBattle.MainForm.resources
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\obj\x86\Debug\BossBattle.pyproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming 2\BossBattle\obj\x86\Debug\BossBattle.exe

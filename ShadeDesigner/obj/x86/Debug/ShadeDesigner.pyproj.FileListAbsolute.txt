@@ -1,0 +1,14 @@
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\ShadeDesigner.exe.config
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\ShadeDesigner.exe
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\ShadeDesigner.dll
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\obj\x86\Debug\ShadeDesigner.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\obj\x86\Debug\ShadeDesigner.MainForm.resources
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\obj\x86\Debug\ShadeDesigner.pyproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming 2\ShadeDesigner\obj\x86\Debug\ShadeDesigner.exe

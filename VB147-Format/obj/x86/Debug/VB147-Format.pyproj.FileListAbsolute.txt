@@ -1,0 +1,14 @@
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\VB147-Format.exe.config
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\VB147-Format.exe
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\VB147-Format.dll
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\IronPython.dll
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\IronPython.Modules.dll
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\IronPython.xml
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\bin\Debug\IronPython.Modules.xml
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\obj\x86\Debug\VB147-Format.pyprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\obj\x86\Debug\VB147_Format.MainForm.resources
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\obj\x86\Debug\VB147-Format.pyproj.GenerateResource.Cache
+C:\Users\boettche.j\Desktop\Programming1\VB147-Format\obj\x86\Debug\VB147-Format.exe

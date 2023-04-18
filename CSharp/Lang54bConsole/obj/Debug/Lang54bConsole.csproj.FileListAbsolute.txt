@@ -1,0 +1,5 @@
+C:\Users\boettche.j\Desktop\Programming2-2\Lang54bConsole\bin\Debug\Lang54bConsole.exe.config
+C:\Users\boettche.j\Desktop\Programming2-2\Lang54bConsole\bin\Debug\Lang54bConsole.exe
+C:\Users\boettche.j\Desktop\Programming2-2\Lang54bConsole\bin\Debug\Lang54bConsole.pdb
+C:\Users\boettche.j\Desktop\Programming2-2\Lang54bConsole\obj\Debug\Lang54bConsole.exe
+C:\Users\boettche.j\Desktop\Programming2-2\Lang54bConsole\obj\Debug\Lang54bConsole.pdb
