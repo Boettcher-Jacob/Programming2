@@ -7,3 +7,6 @@ C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeF
 C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.exe
 C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.pdb
 C:\Users\boettche.j\Desktop\Programming2-2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\AboutmeForm\bin\Debug\AboutmeForm.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\AboutmeForm\obj\Debug\AboutmeForm.pdb
