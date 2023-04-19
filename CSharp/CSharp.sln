@@ -25,7 +25,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4_1", "LP4_1\LP4_1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectProposelNum2", "ProjectProposelNum2\ProjectProposelNum2.csproj", "{2287A5BB-9868-4698-9559-57D9B93BF81B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273", "WindowsFormsApplication1\Pg273.csproj", "{40F6E845-01A9-4B5D-9EB3-D71806D044A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273MassandWeight", "WindowsFormsApplication1\Pg273MassandWeight.csproj", "{40F6E845-01A9-4B5D-9EB3-D71806D044A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273BookClubPoints", "Pg273BookClubPoints\Pg273BookClubPoints.csproj", "{F67B1449-1799-4CE7-A85D-2D0AEE195180}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{40F6E845-01A9-4B5D-9EB3-D71806D044A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F6E845-01A9-4B5D-9EB3-D71806D044A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F6E845-01A9-4B5D-9EB3-D71806D044A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
