@@ -1,0 +1,9 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Form1.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Properties.Resources.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csprojResolveAssemblyReference.cache

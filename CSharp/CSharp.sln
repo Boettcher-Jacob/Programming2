@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273MassandWeight", "Windo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273BookClubPoints", "Pg273BookClubPoints\Pg273BookClubPoints.csproj", "{F67B1449-1799-4CE7-A85D-2D0AEE195180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg266LargeSmall", "Pg266LargeSmall\Pg266LargeSmall.csproj", "{AF13AD42-1BB3-4BA7-BB79-7FA3C5A72751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang122a", "Lang122a\Lang122a.csproj", "{BD51DB6D-2AA7-432B-BED1-E50D19F17A5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F67B1449-1799-4CE7-A85D-2D0AEE195180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF13AD42-1BB3-4BA7-BB79-7FA3C5A72751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF13AD42-1BB3-4BA7-BB79-7FA3C5A72751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF13AD42-1BB3-4BA7-BB79-7FA3C5A72751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF13AD42-1BB3-4BA7-BB79-7FA3C5A72751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD51DB6D-2AA7-432B-BED1-E50D19F17A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD51DB6D-2AA7-432B-BED1-E50D19F17A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD51DB6D-2AA7-432B-BED1-E50D19F17A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD51DB6D-2AA7-432B-BED1-E50D19F17A5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

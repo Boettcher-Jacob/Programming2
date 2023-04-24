@@ -38,4 +38,9 @@ namespace Pg273BookClubPoints
                 label3.Text = ("Rewards: 60 points!");
             }
     }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        
+        }
 }
