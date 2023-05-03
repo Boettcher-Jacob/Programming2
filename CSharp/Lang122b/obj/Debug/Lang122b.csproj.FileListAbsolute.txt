@@ -1,0 +1,9 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\bin\Debug\Lang122b.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\obj\Debug\Lang122b.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\obj\Debug\Lang122b.Form1.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\obj\Debug\Lang122b.Properties.Resources.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\obj\Debug\Lang122b.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\bin\Debug\Lang122b.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\bin\Debug\Lang122b.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\obj\Debug\Lang122b.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Lang122b\obj\Debug\Lang122b.pdb

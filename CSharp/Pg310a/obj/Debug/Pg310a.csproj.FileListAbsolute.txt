@@ -1,0 +1,9 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\bin\Debug\Pg310a.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\bin\Debug\Pg310a.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\bin\Debug\Pg310a.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\obj\Debug\Pg310a.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\obj\Debug\Pg310a.Form1.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\obj\Debug\Pg310a.Properties.Resources.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\obj\Debug\Pg310a.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\obj\Debug\Pg310a.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg310a\obj\Debug\Pg310a.pdb

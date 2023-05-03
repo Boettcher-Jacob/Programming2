@@ -1,0 +1,11 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\bin\Debug\Pg435TicketSale.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\bin\Debug\Pg435TicketSale.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\bin\Debug\Pg435TicketSale.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.Form1.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.GeneralForm.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.Properties.Resources.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.StudentForm.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg435TicketSale\obj\Debug\Pg435TicketSale.pdb

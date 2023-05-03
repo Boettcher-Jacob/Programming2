@@ -1,0 +1,6 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\CalcwithFunctions\bin\Debug\CalcwithFunctions.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\CalcwithFunctions\bin\Debug\CalcwithFunctions.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\CalcwithFunctions\bin\Debug\CalcwithFunctions.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\CalcwithFunctions\obj\Debug\CalcwithFunctions.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\CalcwithFunctions\obj\Debug\CalcwithFunctions.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\CalcwithFunctions\obj\Debug\CalcwithFunctions.pdb
