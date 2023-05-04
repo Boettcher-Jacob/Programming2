@@ -49,6 +49,7 @@
             this.Controls.Add(this.button1);
             this.Name = "StudentForm";
             this.Text = "StudentForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.StudentForm_FormClosing);
             this.ResumeLayout(false);
 
         }

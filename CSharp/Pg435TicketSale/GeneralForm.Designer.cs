@@ -49,6 +49,7 @@
             this.Controls.Add(this.button1);
             this.Name = "GeneralForm";
             this.Text = "GeneralForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.GeneralForm_FormClosing);
             this.ResumeLayout(false);
 
         }

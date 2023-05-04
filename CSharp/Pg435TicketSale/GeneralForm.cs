@@ -30,5 +30,10 @@ namespace Pg435TicketSale
             //Returns the sales tax on ticket sales
             return cost * decTAXRATE;
         }
+
+        private void GeneralForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.myParent.Show();
+        }
     }
 }
