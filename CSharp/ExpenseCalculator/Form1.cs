@@ -30,6 +30,7 @@ namespace ExpenseCalculator
             }
             string message = (string.Format("${0} Withdrawn - Reason:{1}", amount, memo));
             listBox1.Items.Add(message);
+            listView1.BackColor = System.Drawing.Color.Green;
             label4.Text = (tran);
             
            
@@ -48,7 +49,7 @@ namespace ExpenseCalculator
             }
             string message = (string.Format("${0} Withdrawn - Reason:{1}", amount, memo));
             listBox1.Items.Add(message);
-            
+            listView1.BackColor = System.Drawing.Color.Red; 
             label4.Text = (tran);
 
 
@@ -71,6 +72,17 @@ namespace ExpenseCalculator
         private void label5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.RemoveAt(0);
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
         }
     }
 }

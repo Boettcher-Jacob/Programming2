@@ -1,0 +1,6 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\StrInterview7\bin\Debug\StrInterview7.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\StrInterview7\bin\Debug\StrInterview7.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\StrInterview7\bin\Debug\StrInterview7.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\StrInterview7\obj\Debug\StrInterview7.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\StrInterview7\obj\Debug\StrInterview7.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\StrInterview7\obj\Debug\StrInterview7.pdb
