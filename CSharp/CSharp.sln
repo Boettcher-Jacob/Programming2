@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg347Sum", "Pg347Sum\Pg347S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang122b", "Lang122b\Lang122b.csproj", "{E6F8BDDA-E609-4262-A0B9-C055F7DBEB82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseCalculator", "ExpenseCalculator\ExpenseCalculator.csproj", "{68DD8D33-3DF4-4186-B8AE-5734734686CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBook", "ExpenseCalculator\CheckBook.csproj", "{68DD8D33-3DF4-4186-B8AE-5734734686CB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcwithFunctions", "CalcwithFunctions\CalcwithFunctions.csproj", "{60093320-E243-4D3C-A07E-3787E80E5791}"
 EndProject

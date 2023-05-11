@@ -1,0 +1,8 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\ExpenseCalculator.Form1.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\ExpenseCalculator.Properties.Resources.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\CheckBook.csproj.GenerateResource.Cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\ExpenseCalculator.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\bin\Debug\ExpenseCalculator.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\ExpenseCalculator.pdb

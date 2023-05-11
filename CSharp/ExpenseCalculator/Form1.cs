@@ -30,8 +30,12 @@ namespace ExpenseCalculator
             }
             string message = (string.Format("${0} Withdrawn - Reason:{1}", amount, memo));
             listBox1.Items.Add(message);
-            listView1.BackColor = System.Drawing.Color.Green;
             label4.Text = (tran);
+            if (wallet <= 0)
+            {
+                MessageBox.Show("Warning: Balance Below 0");
+            }
+
             
            
         }
@@ -49,8 +53,11 @@ namespace ExpenseCalculator
             }
             string message = (string.Format("${0} Withdrawn - Reason:{1}", amount, memo));
             listBox1.Items.Add(message);
-            listView1.BackColor = System.Drawing.Color.Red; 
             label4.Text = (tran);
+            if (wallet <= 0)
+            {
+                MessageBox.Show("Warning: Balance Below 0");
+            }
 
 
         }
@@ -63,7 +70,6 @@ namespace ExpenseCalculator
         private void button3_Click(object sender, EventArgs e)
         {
             label4.Text = (textBox3.Text);
-            label5.Visible = false;
             label6.Visible = false;
             button3.Visible = false;
             textBox3.Visible = false;
@@ -83,6 +89,11 @@ namespace ExpenseCalculator
         private void button5_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
