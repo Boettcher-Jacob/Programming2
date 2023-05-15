@@ -26,7 +26,7 @@ namespace Lang122b
             {
                 int pay = lcv * 2;
                 listBox1.Items.Add(lcv + pay);
-                lcv+;
+                lcv++;
             }
         }
     }

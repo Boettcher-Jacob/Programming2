@@ -1,0 +1,5 @@
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg347Sum\bin\Debug\Pg347Sum.exe.config
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg347Sum\obj\Debug\Pg347Sum.csprojResolveAssemblyReference.cache
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg347Sum\obj\Debug\Pg347Sum.Form1.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg347Sum\obj\Debug\Pg347Sum.Properties.Resources.resources
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\Pg347Sum\obj\Debug\Pg347Sum.csproj.GenerateResource.Cache
