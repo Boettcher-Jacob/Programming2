@@ -19,7 +19,7 @@ namespace Pg347Sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var thing = Interaction.InputBox();
+            string name = Interaction.InputBox("Prompt here", "Title");
         }
     }
 }

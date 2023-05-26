@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanCalculator", "LoanCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg535CatchMe", "pg535CatchMe\pg535CatchMe.csproj", "{FD57A544-1ACE-46A9-A01C-D955655402EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg514SalesData", "Pg514SalesData\Pg514SalesData.csproj", "{A9BC76C3-4AF2-4C03-A726-D764422EA6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectV3", "ProjectV3\ProjectV3.csproj", "{50BE7725-7ED0-4F63-A234-11FCB47099C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{FD57A544-1ACE-46A9-A01C-D955655402EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD57A544-1ACE-46A9-A01C-D955655402EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD57A544-1ACE-46A9-A01C-D955655402EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BC76C3-4AF2-4C03-A726-D764422EA6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BC76C3-4AF2-4C03-A726-D764422EA6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BC76C3-4AF2-4C03-A726-D764422EA6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BC76C3-4AF2-4C03-A726-D764422EA6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BE7725-7ED0-4F63-A234-11FCB47099C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BE7725-7ED0-4F63-A234-11FCB47099C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BE7725-7ED0-4F63-A234-11FCB47099C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BE7725-7ED0-4F63-A234-11FCB47099C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

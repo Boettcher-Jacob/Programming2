@@ -22,10 +22,10 @@ namespace Lang122b
             listBox1.Items.Clear();
             listBox1.Items.Add("Hours\t\tPay");
             int lcv = 1;
-            while (lcv <= 50)
+            while (lcv <= 40)
             {
-                int pay = lcv * 2;
-                listBox1.Items.Add(lcv + pay);
+                int pay = lcv * 4;
+                listBox1.Items.Add(lcv+"\t\t"+pay);
                 lcv++;
             }
         }

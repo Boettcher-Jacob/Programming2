@@ -1091,6 +1091,6 @@ class MainForm(Form):
 			self._wallet.Text = str(round(attempt+wallet,2))
 
 	def Button1Click(self, sender, e):
-		Allin = self._wallet.Text
+		Allin = float(self._wallet.Text)
 		
 		self._textBet.Text = str(Allin)

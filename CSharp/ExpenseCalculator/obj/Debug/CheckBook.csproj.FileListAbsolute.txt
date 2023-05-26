@@ -6,3 +6,4 @@ C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\bin\D
 C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe
 C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\bin\Debug\ExpenseCalculator.pdb
 C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\ExpenseCalculator.pdb
+C:\Users\boettche.j\Documents\GitHub\Programming2\CSharp\ExpenseCalculator\obj\Debug\CheckBook.csprojResolveAssemblyReference.cache
